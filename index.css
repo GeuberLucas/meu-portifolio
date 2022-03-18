@@ -7,8 +7,8 @@ body{
     background-image: url('img/background.jpg');
     width:100%;
     height: 100%;
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 30%;
+    padding-right: 30%;
     padding-top: 5%;
     padding-bottom: 5%;
 }
@@ -38,7 +38,12 @@ body{
 .name{
     text-shadow: 0.15em 0.15em 0.25em black;
     text-align: center;
-    width: 90%;
+    width: 100%;
     color:rgb(255, 255, 255);
+    
+}
+
+.numeros{
+    color:white;
     
 }
